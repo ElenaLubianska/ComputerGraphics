@@ -1,0 +1,18 @@
+canvas {
+    height: 400px;
+    width: 400px;
+    float:left;
+    border: 1px solid black;
+}
+.wrapper {
+    display: flex;
+}
+#form div {
+    display: flex;
+    margin-left: 55%;
+}
+#form div input{
+    width: 70px;
+    height: 25px;
+    border: 1px black;
+}
